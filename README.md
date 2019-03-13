@@ -7,5 +7,5 @@ You will be given the first sequence remember the sequence and input each number
 ## Note
 Do not enter all your sequences in one input. Wait until the program asks you to input the next sequence.
 
-## How to Complie game
+## How to complie game
 You will need to install the Irvine32.inc which can be found here http://kipirvine.com/asm/ Along with other files that are not included here. Once you have that install you will be able to compile this code.
