@@ -1,5 +1,5 @@
 # Simon-Memory-Game
-General information: Simon is a memory based game where you memorize a sequence a sequence and each time you remeber the correct sequence the longer it gets. This project was done in my COMPUTER ARCH & ASSEM LANGUAGE 271 at Oregon State University.
+General information: Simon is a memory based game where you memorize a sequence and each time you remember the correct sequence the longer it gets. This project was done in my COMPUTER ARCH & ASSEM LANGUAGE 271 at Oregon State University.
 
 ## How to play
 You will be given the first sequence remember the sequence and input each number sequence individually when prompted. The sequence will get 1+ longer each time. The game will remind you how the sequence is from beginning to end each time when you get the sequence correct.
